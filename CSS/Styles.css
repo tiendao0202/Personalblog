@@ -1,0 +1,82 @@
+
+body{
+  margin:0;
+  text-align: center;
+
+  font-family: 'DotGothic16', sans-serif;
+
+
+}
+
+h1{
+  margin: 0 ;
+
+
+}
+
+.box1{
+  background-color: #f4f9f9;
+  display: inline-block;
+  height:600px;
+  width:1300px;
+  position: relative;
+
+}
+.Petals{
+  position:absolute;
+  height:600px;
+  display: inline-block;
+  width:800px;
+  top:0;
+  right: 100px;
+
+}
+.Cherry-blossoms{
+  height:500px;
+  position: absolute;
+  right:0;
+  top:0;
+  display: inline-block;
+
+}
+.Couple{
+
+  height:350px;
+  margin-top: 120px;
+  left:0;
+  display: inline-block;
+  position: absolute;
+}
+.middle-container{
+  position:relative;
+}
+.profile{
+  height:300px;
+}
+
+.Totoro{
+  position: absolute;
+  height:250px;
+  left:800px;
+
+}
+.skills{
+  height:600px;
+  position: relative;
+
+}
+.Chubbies{
+
+  height:200px;
+bottom: 100px;
+
+
+
+}
+.pagebreak{
+  height:200px;
+}
+.flowers{
+  height:200px;
+  position:relative;
+}
